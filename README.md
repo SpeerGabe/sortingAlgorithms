@@ -9,4 +9,5 @@ Counting Sort: Outperforms Insertion Sort with its O(n + k) complexity but also 
 For 10,000 random numbers between 0 and 1000, Counting Sort ran significantly faster.
 
 Insertion Sort Time: 176 ms
+<br>
 Counting Sort Time: 0 ms
